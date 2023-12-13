@@ -5,7 +5,7 @@
 
 <h4 align="center">I am a tech enthusiast and M.Sc. in AI candidate with a background in Information Technology. Currently exploring the fascinating domains of transformers and deep learning, I have a strong foundation in full-stack Ml development, with a special affinity for frontend design.</h4>
 
-<img src="./images/c1.png" width="32%" alt="vector" align="right"> 
+<img src="./overview-readme/images/c1.png" width="32%" alt="vector" align="right"> 
 
 
 ## ⚡️ A Few Quick Facts
@@ -19,7 +19,7 @@
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on making gen ai based projects
 - 💬 Ask me about Python, ML, DL, NLP , Full stack development
-- 📙 Check out my [Resume](./Harsh_joshi_ML.pdf)
+- 📙 Check out my [Resume](./overview-readme/Harsh_joshi_ML.pdf)
 - 🎉 Fun-Fact: I ❤️ Chess and Cricket and watch a lot web series🎬
 
 
